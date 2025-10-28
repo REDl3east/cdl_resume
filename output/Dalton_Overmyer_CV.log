@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  28 OCT 2025 02:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  28 OCT 2025 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**C:/Users/overm/projects/cdl_resume/rendercv_output/Dalton_Overmyer_CV.tex
-(c:/Users/overm/projects/cdl_resume/rendercv_output/Dalton_Overmyer_CV.tex
+**C:/Users/overm/projects/cdl_resume/output/Dalton_Overmyer_CV.tex
+(c:/Users/overm/projects/cdl_resume/output/Dalton_Overmyer_CV.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 
@@ -926,24 +926,18 @@ Overfull \hbox (3.5431pt too wide) in paragraph at lines 245--246
 es to pre-vent short-ages dur-ing peak times. 
  []
 
-
-Overfull \hbox (16.52248pt too wide) in paragraph at lines 246--247
-[]\T1/SourceSansPro-TLF/regular/n/10 Enforced san-i-ta-tion and food-safety rul
-es; per-formed post-event cleanups and checks. 
- []
-
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 304.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 298.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 304.
+(Font)              scaled to size 10.0pt on input line 298.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 304.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 298.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 304.
+(Font)              scaled to size 9.0pt on input line 298.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 304.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 298.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 304.
+(Font)              scaled to size 9.0pt on input line 298.
 [1
 
 {c:/Users/overm/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz
@@ -960,7 +954,7 @@ calCache/local-packages/Python312/site-packages/rendercv/renderer/tinytex-relea
 se/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/Users/overm
 /AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/Loca
 lCache/local-packages/Python312/site-packages/rendercv/renderer/tinytex-release
-/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
+/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Dalton_Overmyer_CV.aux)
@@ -970,13 +964,13 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15742 strings out of 476002
- 304806 string characters out of 5788363
- 1953496 words of memory out of 5000000
+ 15743 strings out of 476002
+ 304776 string characters out of 5788363
+ 1952496 words of memory out of 5000000
  37657 multiletter control sequences out of 15000+600000
  646008 words of font info for 55 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,372b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,363b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/overm/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_q
 bz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages/rendercv/rendere
 r/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesom
@@ -990,10 +984,10 @@ SoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python31
 ages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packag
 es/Python312/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist
 /fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Dalton_Overmyer_CV.pdf (1 page, 173670 bytes).
+Output written on Dalton_Overmyer_CV.pdf (2 pages, 174277 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
