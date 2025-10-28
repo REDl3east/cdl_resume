@@ -1,0 +1,96 @@
+cv:
+  name: Dalton Overmyer
+  location: Champaign, Illinois
+  email: daltonovermyer@gmail.com
+  phone: tel:+1-217-840-8350
+  website: https://daltonovermyer.com/
+  social_networks:
+    - network: GitHub
+      username: REDl3east
+  sections:
+    experience:
+      - company: Raptor Power Systems
+        position: Software Engineer
+        location: Champaign, Illinois
+        start_date: 2020-06
+        end_date: 2024-10
+        highlights:
+          - 'Developed smart C++ applications for custom Power Distribution Units (PDUs) and remote power panels, enabling hardware control and real-time recording of user-relevant metrics.'
+          - 'Wrote C/C++ drivers for hardware components like relays, power meters, and LCDs, utilizing communication protocols such as MODBUS, SPI, and I2C.'
+          - 'Created a user-friendly Human-Machine Interface (HMI) for remote power panels using JavaScript, enabling intuitive control and real-time monitoring of system metrics.'
+          - 'Migrated an outdated CGI API to a modern RESTful API in C++, improving response time by over 50%.'
+          - 'Integrated OpenWrt build system into a non-build system application, streamlining the build process for embedded devices.'
+    education:
+      - institution: Southern Illinois University
+        area: Computer Science
+        degree: BS
+        start_date: 2017-09
+        end_date: 2020-05
+        highlights:
+          - '**GPA:** 3.53/4.0'
+          - '**Institution Honors:** Cum Laude'
+          - '**Relevant Coursework:** Discrete Mathematics, Comm Skills & Ethics for CS, Programming w/Data Structures, Internet & Mobile Computing
+            Computational Statistics I, Linux/UNIX Programming, Computer Organiztn & Architect, Operating Systems, Intro to Linear Algebra, 
+            Theory Programming Languages, Intro Des & Analysis of Alg, Computer Security, Adv Linux/UNIX Programming, Distributed Systems, 
+            Database Systems, Software Engineering, Computer Networks.'
+    projects:
+      - name: Nutritional Facts Barcode Scanner
+        date: '[github.com/REDl3east/scannerd](https://github.com/REDl3east/scannerd)'
+        highlights:
+          - 'Developed an application using Onion Omega2 and a USB barcode decoder to scan barcodes and access nutritional facts in real-time. 
+             Utilized libuv for asynchronous I/O, Crow for HTTP server, and connected to the FoodData Central API.'
+          - 'Tools Used: C++ and JavaScript'
+      - name: Cappy
+        date: '[github.com/REDl3east/cappy](https://github.com/REDl3east/cappy)'
+        highlights:
+          - 'Developed a cross-platform screen-capping tool that enables users to explore and inspect pixels on their monitors, 
+             featuring smooth panning, pixel data inspection, and cropping capabilities.'
+          - 'Tools Used: C++, SDL2, X11'
+    technologies:
+      - label: Programming Languages
+        details: C, C++, Python, JavaScript
+      - label: Development Tools
+        details: Git, GitHub, Visual Studio Code, CMake, clang-format
+      - label: Embedded Systems
+        details: BusyBox, OpenWrt, Yocto, Buildroot
+      - label: Frameworks and Libraries
+        details: Vue, libuv, libubox, rrdtool, Crow
+
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in: []
