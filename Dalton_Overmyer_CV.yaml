@@ -1,0 +1,97 @@
+cv:
+  name: Dalton Overmyer
+  location: Champaign, Illinois
+  email: daltonovermyer@gmail.com
+  phone: tel:+1-217-840-8350
+  sections:
+    summary:
+      - 'Newly licensed CDL holder transitioning into trucking. Experienced with inspections, documentation, and safety checks.'
+    experience:
+      - company: Raptor Power Systems
+        position: Quality & Test Technician
+        location: Champaign, Illinois
+        start_date: 2019-06
+        end_date: 2025-01
+        highlights:
+          - 'Wrote clear step-by-step instructions for testing Power Distribution Units (PDUs) before shipping them out.'
+          - 'Created and followed safety checklists for PDUs, making sure each unit worked correctly and safely.'
+          - 'Wrote easy-to-read manuals that helped technicians understand and fix power equipment in the field.'
+          - 'Kept detailed records of all equipment tests and inspections to meet safety requirements.'
+          - 'Microsoft Office Word, Excel, Google Docs, Google Sheets, Gmail.'
+      - company: Southern Illinois University
+        position: Concession Supervisor 
+        location: Carbondale, Illinois
+        start_date: 2018-08
+        end_date: 2019-05
+        highlights:
+          - 'Supervised during big sports events, making sure everything ran on time.'
+          - 'Prepared and stocked concession stands before events to serve large crowds.'
+          - 'Trained new employees on tasks, safety, and cash handling.'
+          - 'Managed inventory and restocked supplies to prevent shortages during peak times.'
+          - 'Enforced sanitation and food-safety rules; performed post-event cleanups and checks.'
+          - 'Handled cash and card payments and balanced the register at shift end.'
+      - company: Sodexo
+        position: Concession Assistant/Worker 
+        location: Champaign, Illinois
+        start_date: 2015-08
+        end_date: 2018-08
+        highlights:
+          - 'Working in the concession industry at University of Illinois sporting events, including football, basketball, and many other sports.'
+          - 'Ensuring that concession stands are fully prepared before, during, and after the event.'
+          - 'Managed inventory and restocked supplies to avoid shortages during peak periods.'
+          - 'Work in a fast paced work environment, especially during sporting events.'
+          - 'Making sure employees working the stands have the essential material needed to function, if not provide assistance.'
+          - 'Making sure the stands are in sanitary conditions.'
+    education:
+      - institution: Parkland/160 Driving Academy
+        area: Certificate of Completion
+        location: Champaign, Illinois
+        start_date: 2025-09
+        end_date: 2025-10
+        highlights:
+          - 'CDL - Class A'
+          - 'Completed CDL classroom training (40 total hours) covering rules, safety, and logbook procedures.'
+          - 'Completed CDL driving training (120 total hours) covering pre-trip inspections, backing and parking, and road driving.'
+      - institution: Mahomet-Seymour Highschool
+        location: Mahomet, Illinois
+        area: Highschool Degree
+        start_date: 2011-08
+        end_date: 2015-06
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: ''
+  disable_last_updated_date: false
+  last_updated_date_style: ''
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in: []

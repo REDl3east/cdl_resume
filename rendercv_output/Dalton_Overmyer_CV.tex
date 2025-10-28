@@ -56,7 +56,7 @@
 \makeatletter
 \let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
 \patchcmd{\ps@customFooterStyle}{\thepage}{
-    \color{gray}\textit{\small Dalton Overmyer - Page \thepage{} of \pageref*{LastPage}}
+    \color{gray}\textit{\small }
 }{}{} % replace number by desired string
 \makeatother
 \pagestyle{customFooterStyle}
@@ -156,7 +156,7 @@
         \LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},
         \LenToUnit{\paperheight-1.0 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
-        \small\color{gray}\textit{Last updated in December 2024}\hspace{\widthof{Last updated in December 2024}}
+        \small\color{gray}\textit{}\hspace{\widthof{}}
     }}}%
   }%
 }%
@@ -193,19 +193,22 @@
         \AND%
         \kern 0.25 cm%
         \mbox{\hrefWithoutArrow{tel:+1-217-840-8350}{{\footnotesize\faPhone*}\hspace*{0.13cm}(217) 840-8350}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://daltonovermyer.com/}{{\footnotesize\faLink}\hspace*{0.13cm}daltonovermyer.com}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://github.com/REDl3east}{{\footnotesize\faGithub}\hspace*{0.13cm}REDl3east}}%
     \end{header}
 
     \vspace{0.3 cm - 0.3 cm}
 
 
+    \section{Summary}
+
+
+
+        
+        \begin{onecolentry}
+            Newly licensed CDL holder transitioning into trucking. Experienced with inspections, documentation, and safety checks.
+        \end{onecolentry}
+
+
+    
     \section{Experience}
 
 
@@ -214,15 +217,53 @@
         \begin{twocolentry}{
             Champaign, Illinois
 
-        June 2020 – Oct 2024
+        June 2019 – Jan 2025
         }
-            \textbf{Raptor Power Systems}, Software Engineer
+            \textbf{Raptor Power Systems}, Quality \& Test Technician
             \begin{highlights}
-                \item Developed smart C++ applications for custom Power Distribution Units (PDUs) and remote power panels, enabling hardware control and real-time recording of user-relevant metrics.
-                \item Wrote C/C++ drivers for hardware components like relays, power meters, and LCDs, utilizing communication protocols such as MODBUS, SPI, and I2C.
-                \item Created a user-friendly Human-Machine Interface (HMI) for remote power panels using JavaScript, enabling intuitive control and real-time monitoring of system metrics.
-                \item Migrated an outdated CGI API to a modern RESTful API in C++, improving response time by over 50\%.
-                \item Integrated OpenWrt build system into a non-build system application, streamlining the build process for embedded devices.
+                \item Wrote clear step-by-step instructions for testing Power Distribution Units (PDUs) before shipping them out.
+                \item Created and followed safety checklists for PDUs, making sure each unit worked correctly and safely.
+                \item Wrote easy-to-read manuals that helped technicians understand and fix power equipment in the field.
+                \item Kept detailed records of all equipment tests and inspections to meet safety requirements.
+                \item Microsoft Office Word, Excel, Google Docs, Google Sheets, Gmail.
+            \end{highlights}
+        \end{twocolentry}
+
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
+            Carbondale, Illinois
+
+        Aug 2018 – May 2019
+        }
+            \textbf{Southern Illinois University}, Concession Supervisor
+            \begin{highlights}
+                \item Supervised during big sports events, making sure everything ran on time.
+                \item Prepared and stocked concession stands before events to serve large crowds.
+                \item Trained new employees on tasks, safety, and cash handling.
+                \item Managed inventory and restocked supplies to prevent shortages during peak times.
+                \item Enforced sanitation and food-safety rules; performed post-event cleanups and checks.
+                \item Handled cash and card payments and balanced the register at shift end.
+            \end{highlights}
+        \end{twocolentry}
+
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
+            Champaign, Illinois
+
+        Aug 2015 – Aug 2018
+        }
+            \textbf{Sodexo}, Concession Assistant/Worker
+            \begin{highlights}
+                \item Working in the concession industry at University of Illinois sporting events, including football, basketball, and many other sports.
+                \item Ensuring that concession stands are fully prepared before, during, and after the event.
+                \item Managed inventory and restocked supplies to avoid shortages during peak periods.
+                \item Work in a fast paced work environment, especially during sporting events.
+                \item Making sure employees working the stands have the essential material needed to function, if not provide assistance.
+                \item Making sure the stands are in sanitary conditions.
             \end{highlights}
         \end{twocolentry}
 
@@ -234,76 +275,28 @@
 
 
         
-        \begin{threecolentry}{\textbf{BS}}{
-            Sept 2017 – May 2020
+        \begin{threecolentry}{\textbf{}}{
+            Champaign, Illinois
+
+        Sept 2025 – Oct 2025
         }
-            \textbf{Southern Illinois University}, Computer Science
+            \textbf{Parkland/160 Driving Academy}, Certificate of Completion
             \begin{highlights}
-                \item \textbf{GPA:} 3.53/4.0
-                \item \textbf{Institution Honors:} Cum Laude
-                \item \textbf{Relevant Coursework:} Discrete Mathematics, Comm Skills \& Ethics for CS, Programming w/Data Structures, Internet \& Mobile Computing Computational Statistics I, Linux/UNIX Programming, Computer Organiztn \& Architect, Operating Systems, Intro to Linear Algebra, Theory Programming Languages, Intro Des \& Analysis of Alg, Computer Security, Adv Linux/UNIX Programming, Distributed Systems, Database Systems, Software Engineering, Computer Networks.
+                \item CDL - Class A
+                \item Completed CDL classroom training (40 total hours) covering rules, safety, and logbook procedures.
+                \item Completed CDL driving training (120 total hours) covering pre-trip inspections, backing and parking, and road driving.
             \end{highlights}
         \end{threecolentry}
 
+        \vspace{0.2 cm}
 
-    
-    \section{Projects}
+        \begin{threecolentry}{\textbf{}}{
+            Mahomet, Illinois
 
-
-
-        
-        \begin{twocolentry}{
-            \href{https://github.com/REDl3east/scannerd}{github.com/REDl3east/scannerd}
+        Aug 2011 – June 2015
         }
-            \textbf{Nutritional Facts Barcode Scanner}
-            \begin{highlights}
-                \item Developed an application using Onion Omega2 and a USB barcode decoder to scan barcodes and access nutritional facts in real-time. Utilized libuv for asynchronous I/O, Crow for HTTP server, and connected to the FoodData Central API.
-                \item Tools Used: C++ and JavaScript
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            \href{https://github.com/REDl3east/cappy}{github.com/REDl3east/cappy}
-        }
-            \textbf{Cappy}
-            \begin{highlights}
-                \item Developed a cross-platform screen-capping tool that enables users to explore and inspect pixels on their monitors, featuring smooth panning, pixel data inspection, and cropping capabilities.
-                \item Tools Used: C++, SDL2, X11
-            \end{highlights}
-        \end{twocolentry}
-
-
-
-    
-    \section{Technologies}
-
-
-
-        
-        \begin{onecolentry}
-            \textbf{Programming Languages:} C, C++, Python, JavaScript
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            \textbf{Development Tools:} Git, GitHub, Visual Studio Code, CMake, clang-format
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            \textbf{Embedded Systems:} BusyBox, OpenWrt, Yocto, Buildroot
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            \textbf{Frameworks and Libraries:} Vue, libuv, libubox, rrdtool, Crow
-        \end{onecolentry}
+            \textbf{Mahomet-Seymour Highschool}, Highschool Degree
+        \end{threecolentry}
 
 
     
