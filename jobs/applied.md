@@ -7,7 +7,7 @@ Mitchell Newell | Arthur, IL | 217-552-5046
 217-518-2790? Missed call from Arcola.  
 
 # Heartland Coca Cola Bottling Company
-- [x] 
 ### 10/29/2025
+- [x] 
 No job application in Champaign area, no go.  
 Matthew Shafer | Charleston, Champaign, Peoria | 217-273-3718 | mshafer@heartlandcocacola.com  
