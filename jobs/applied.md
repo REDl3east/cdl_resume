@@ -1,6 +1,6 @@
 # CHI Overhead Doors
 ### 10/28/2025
-- [ ] 
+- [ ] Open
 https://www.chiohd.com/  
 https://jobs.nucor.com/job/Arthur-OTR-Driver-%28CDL-A%29-IL-61911/1291103800/  
 Mitchell Newell | Arthur, IL | 217-552-5046  
