@@ -477,13 +477,28 @@
 
 
 #one-col-entry(
-  content: [Newly licensed CDL holder transitioning into trucking. Experienced with inspections, documentation, and safety checks.]
+  content: [Experienced CDL Class A driver with recent long-haul reefer experience. Skilled in vehicle inspections, documentation, safety compliance, and maintaining DOT regulations.]
 )
 
 
 == Experience
 
 
+#two-col-entry(
+  left-content: [
+    #strong[Butler Transport], Class A Long-Haul Reefer Driver
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Handled long-haul food grade delivery across multiple states, keeping a close eye on the reefer unit and temp settings to make sure the load stayed within specs.],[Kept the truck and trailer in top shape by staying on top of pre-trip and post-trip inspections.],[Maintained professional communication with dispatch and receivers to address delays and resolve any truck or trailer issues.],[Stayed compliant with ELD logs and clock management, making sure deliveries were on time even with tight schedules or warehouse delays.],)
+  ],
+  right-content: [
+    Kansas City, Kansas
+
+Dec 2025 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[Raptor Power Systems], Quality & Test Technician
@@ -541,7 +556,7 @@ Aug 2015 – Aug 2018
     #strong[Parkland College\/160 Driving Academy], Certificate of Completion
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Newly licensed CDL — Class A.],[DOT medical card \(current\).],[Completed CDL classroom training \(40 total hours\) covering rules, safety, and logbook procedures.],[Completed CDL driving training \(120 total hours\) covering pre-trip inspections, backing and parking, and road driving.],)
+    #v(design-highlights-top-margin);#highlights([CDL — Class A.],[DOT medical card \(current\).],[Completed CDL classroom training \(40 total hours\) covering rules, safety, and logbook procedures.],[Completed CDL driving training \(120 total hours\) covering pre-trip inspections, backing and parking, and road driving.],)
   ],
   right-content: [
     Champaign, Illinois

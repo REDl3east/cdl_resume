@@ -5,8 +5,18 @@ cv:
   phone: tel:+1-217-840-8350
   sections:
     summary:
-      - 'Newly licensed CDL holder transitioning into trucking. Experienced with inspections, documentation, and safety checks.'
+      - 'Experienced CDL Class A driver with recent long-haul reefer experience. Skilled in vehicle inspections, documentation, safety compliance, and maintaining DOT regulations.'
     experience:
+      - company: Butler Transport
+        position: Class A Long-Haul Reefer Driver
+        location: Kansas City, Kansas
+        start_date: 2025-12
+        # end_date: 2026-04
+        highlights:
+          - 'Handled long-haul food grade delivery across multiple states, keeping a close eye on the reefer unit and temp settings to make sure the load stayed within specs.'
+          - 'Kept the truck and trailer in top shape by staying on top of pre-trip and post-trip inspections.'
+          - 'Maintained professional communication with dispatch and receivers to address delays and resolve any truck or trailer issues.'
+          - 'Stayed compliant with ELD logs and clock management, making sure deliveries were on time even with tight schedules or warehouse delays.'
       - company: Raptor Power Systems
         position: Quality & Test Technician
         location: Champaign, Illinois
@@ -49,7 +59,7 @@ cv:
         start_date: 2025-09
         end_date: 2025-10
         highlights:
-          - 'Newly licensed CDL — Class A.'
+          - 'CDL — Class A.'
           - 'DOT medical card (current).'
           - 'Completed CDL classroom training (40 total hours) covering rules, safety, and logbook procedures.'
           - 'Completed CDL driving training (120 total hours) covering pre-trip inspections, backing and parking, and road driving.'
